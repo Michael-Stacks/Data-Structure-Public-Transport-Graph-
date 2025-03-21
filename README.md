@@ -27,6 +27,8 @@ Acknowledgements
 
 Special thanks to the course instructors and the STS (SOCIÉTÉ DE TRANSPORT DU SAGUENAY) for providing the data used in this project. 🎓🙏
 
+If you need the json data contact me
+
 
 ![Console de débogage Microsoft Visual Studio 2025-03-21 00_02_18](https://github.com/user-attachments/assets/1cb007fb-cc87-440a-b5be-ca0fe64cbbd4)
 
