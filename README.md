@@ -1,12 +1,16 @@
 Public Transport Graph (STS (SOCIÉTÉ DE TRANSPORT DU SAGUENAY) )🚍📊
+
 Overview
+
 This project simulates a public transportation network for the Saguenay bus system using real JSON data. It builds a graph where each bus stop is a node and the connections between stops (via bus routes) are the edges. The system calculates the shortest route between two stops using two different algorithms:
 
 BFS (Breadth-First Search) for unweighted paths 🔍
 Dijkstra for the optimal (shortest distance) path 🚀
+
 It also supports filtering options to include or exclude specific routes or stops. 🚦❌✅
 
 Features
+
 JSON Parsing: Reads stops.json and routes.json to build the graph 🗂️
 Graph Construction: Creates nodes (stops) and edges (routes) from the data 🕸️
 Route Calculation: Implements BFS and Dijkstra algorithms to find routes ⏱️
@@ -15,6 +19,7 @@ Flexible Filtering: Allows setting restrictions on allowed/forbidden routes and 
 Modular Code: Organized into multiple header and source files for clarity and maintenance 📂
 
 Acknowledgements
+
 Special thanks to the course instructors and the STS (SOCIÉTÉ DE TRANSPORT DU SAGUENAY) for providing the data used in this project. 🎓🙏
 
 
