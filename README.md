@@ -14,7 +14,7 @@ Performance Metrics: Compares execution time and total distance for both methods
 Flexible Filtering: Allows setting restrictions on allowed/forbidden routes and stops 🚏
 Modular Code: Organized into multiple header and source files for clarity and maintenance 📂
 
-TP2_PublicTransport/
+STS_PublicTransport/
 ├── graph.h           // Declarations for graph and algorithms
 ├── graph.cpp         // Graph and algorithm implementations
 ├── main.cpp          // Main function and test cases
