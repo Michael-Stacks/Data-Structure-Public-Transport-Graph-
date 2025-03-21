@@ -14,16 +14,6 @@ Performance Metrics: Compares execution time and total distance for both methods
 Flexible Filtering: Allows setting restrictions on allowed/forbidden routes and stops 🚏
 Modular Code: Organized into multiple header and source files for clarity and maintenance 📂
 
-STS_PublicTransport/
-├── graph.h           // Declarations for graph and algorithms
-├── graph.cpp         // Graph and algorithm implementations
-├── main.cpp          // Main function and test cases
-├── stops.json        // JSON file with stops data
-├── routes.json       // JSON file with routes data
-├── json.hpp          // nlohmann JSON library header
-└── README.md         // This README file
-
-
 Acknowledgements
 Special thanks to the course instructors and the STS (SOCIÉTÉ DE TRANSPORT DU SAGUENAY) for providing the data used in this project. 🎓🙏
 
