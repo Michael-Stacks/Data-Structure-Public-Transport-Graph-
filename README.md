@@ -12,10 +12,15 @@ It also supports filtering options to include or exclude specific routes or stop
 Features
 
 JSON Parsing: Reads stops.json and routes.json to build the graph 🗂️
+
 Graph Construction: Creates nodes (stops) and edges (routes) from the data 🕸️
+
 Route Calculation: Implements BFS and Dijkstra algorithms to find routes ⏱️
+
 Performance Metrics: Compares execution time and total distance for both methods ⏳📏
+
 Flexible Filtering: Allows setting restrictions on allowed/forbidden routes and stops 🚏
+
 Modular Code: Organized into multiple header and source files for clarity and maintenance 📂
 
 Acknowledgements
